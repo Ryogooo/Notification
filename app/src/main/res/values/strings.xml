@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="Button">シンプルな通知</string>
+    <string name="Button2">長いテキストの通知</string>
+    <string name="Button3">アクションボタンの通知</string>
+    <string name="Button4">アクション4</string>
+    <string name="snooze">これはテストです</string>
+    <string name="REPLAY">REPLAY</string>
+</resources>
